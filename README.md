@@ -1,4 +1,4 @@
-#A Python tool to check End of Life (EOL) status for software in your inventory using the endoflife.date API
+# A Python tool to check End of Life (EOL) status for software in your inventory using the endoflife.date API
 
 step 1:
 
